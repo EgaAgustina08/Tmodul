@@ -1,0 +1,166 @@
+body {
+	background:#9999ff;
+	margin:0;
+	font-family: courier new, monospace;
+	background-image:url("");
+	background-position: fixed;
+08.
+}
+}
+
+hr {
+	border:0;
+	background:lightpink;
+	height:1px;
+}		
+ 
+header{
+	text-align: left;
+	color: black;
+}
+ 
+header .judul{
+	font-size: 17pt;
+}
+ 
+header .deskripsi{
+	font-size: 11pt;
+}
+.wrap {
+	width: 1500px;
+	margin:0px auto;
+}
+ 
+nav.menu ul {
+	overflow:hidden;
+	color:#fff;
+	list-style: none;
+	float:left;
+	padding:0;
+	text-align: center;
+	margin:0 0 0;
+	background:	#ff99ff;
+	-webkit-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+	-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+	box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+	position:center;
+	width: 100%;
+     display: outline;
+    list-style-type: none;
+    height: 65px;
+}
+ 
+nav.menu ul li {
+	margin:0;
+	text-align: center;
+	float:left;
+}
+ 
+nav.menu ul a {
+	padding:25px;
+	display:block;
+	text-align: center;
+	font-weight:600;
+	font-size: 16px;
+	color:black;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+	text-decoration: none;
+}
+ 
+nav.menu ul a:hover {
+	text-decoration: underline;
+	background:#99ccff;
+	text-align: center;
+}
+
+
+.blog {
+	float:left;
+	width: 1250px;
+}
+
+.bucin img {
+	width:600px;
+	height: 350px;
+	padding:25px;
+	margin:5px auto;
+	border-style: groove; 
+}
+.bucin h1 {
+	color: black;
+	font-size: 40px;
+	font-family: Snell, cursive
+}
+.gaga div {
+	border-style: groove;
+	border-color: pink;
+	width: 411px;
+	height:150px;
+	margin: 10px;
+	color:  black;
+	font-family: courier new, monospace;
+	font-size: 17px;
+
+}
+.gaga h1 {
+	font-style:; 
+	font-size :50px;
+	margin: 7px;
+}
+.ril div {
+	border-style: groove;
+	border-color: lightpink;
+	width: 350px;
+	height:170px;
+	margin: 10px;
+	color: #ff3399;
+	font-family: Apple Chancery, cursive;
+	font-size: 17px;
+
+}
+.ril h1 {
+ 	font-family: mojo, fantasy; 
+	font-size :50px;
+	margin: 7px;
+	color:#ff3399;
+}
+.chan div {
+	border-style: groove;
+	border-color: lavender;
+	width: 350px;
+	height:170px;
+	margin: 10px;
+	color: white ;
+	font-family: snell, cursive;
+	font-size: 17px;
+}
+.chan h1 {
+	font-family: Andale Mono, monospace; 
+	font-size :50px;
+	margin: 7px;
+	color:white;
+}
+.andri div {
+	border-style: groove;
+	border-color: white;
+	width: 330px;
+	height:170px;
+	margin: 10px;
+	color:  red;
+	font-family: comic sans, cursive;
+	font-size: 17px;
+
+}
+.andri h1 {
+	font-size :50px;
+	font-family: imapct, fantasy;
+	margin: 7px;
+	color:red;
+}
+
+
+
+
+
+
